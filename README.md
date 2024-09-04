@@ -6,6 +6,6 @@ User can login and started their quiz.
 Quiz has a limited time.
 After completion of time. Test will submitted automatically.
 # Technology
-React Native
-Google Sheets as API
+React Native, 
+Google Sheets as API, 
 SheetDB
